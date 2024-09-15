@@ -1,4 +1,5 @@
-# awesome-nsfw-ai-list
+# Awesome NSFW AI List
+## AI Girlfriend
 | Website | Starting Price | Pricing Model | Subscription Options | Payment Methods | Platforms |
 |---------|----------------|---------------|----------------------|-----------------|-----------|
 | [DreamGF](https://dreamgf.ai) | $7.99 | FREEMIUM AND PAID | MONTHLY, QUARTERLY, AND ANNUALLY | Credit Cards | Windows,Mac/IOS,Android |
